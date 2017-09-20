@@ -1,4 +1,3 @@
-Simwood添加新款价格专用
 #!/use/bin/python
 # -*- coding: utf-8 -*-
 import re, json
