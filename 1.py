@@ -1,4 +1,3 @@
-用于淘宝官方活动报名,生成对应的链接，方便报名活动.
 #!/usr/bin/python
 #-*- coding:utf-8-*-
 import re
